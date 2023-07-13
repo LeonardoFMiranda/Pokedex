@@ -12,7 +12,7 @@
   <a href="#funcionalidades">Funcionalidades</a> •
   <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a> •
   <a href="#como-utilizar">Como Utilizar</a> •
-  <a href="#como-utilizar">Link para Visualizar</a> •
+  <a href="https://leonardofmiranda.github.io/Pokedex/">Link para Visualizar</a> •
 
 </p>
 
